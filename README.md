@@ -23,28 +23,8 @@
 <h1 align="center">Hi there, I'm @Kunal-Kamod25 👋</h1>
 ###
 <h3 align="left">👩‍💻  About Me</h3>
-
 ###
-
-<table>
-  <tr>
-    <td>🌍 From</td>
-    <td>Nashik, Maharashtra, India</td>
-  </tr>
-  <tr>
-    <td>📚 Learning</td>
-    <td>React · JavaScript · Node.js · MySQL · C++ · Python</td>
-  </tr>
-  <tr>
-    <td>💞️ Interests</td>
-    <td>Front-end & Back-end Development</td>
-  </tr>
-  <tr>
-    <td>⚡ Hobbies</td>
-    <td>Exploring new technologies & ideas</td>
-  </tr>
-</table>
-
+<p align="left">I'm Kunal Kamod I'm from Nashik, Maharashtra, India.<br>- 📚 I'm currently learning, React, JavaScript, Node.Js, Mysql, C++, Python.<br>💞️ I have a keen interest in both front-end and back-end development<br>- ⚡ In my free time I explore new things.</p>
 ###
 <h3 align="left">🛠 Language and tools</h3>
 ###
