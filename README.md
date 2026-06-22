@@ -20,7 +20,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kamod25.Kunal-Kamod25&"  />
 </div>
 
-<h1 align="center">Hi Stalker, I'm Kunal 👋🏻</h1>
+<h1 align="center">Hi Stalker, my name is Kunal 👋🏻</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
