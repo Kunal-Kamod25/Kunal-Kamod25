@@ -1,8 +1,8 @@
 ![Profile Banner](./banner.svg)
 
 ### Hey mate, Welcome to my World! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNmt0OHQ4NXhmMjV4dThpZTJwODI3bW1wMzJ2aDdjMG1zYWp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JUepQ8rqpnI5ZS/giphy.gif" height="22px"/>
-📚 I'm a passionate Full-Stack Developer who loves building scalable web applications. My objective is to gain extensive experience in software engineering and continue leveling up my skills.<br>
-🌱 I’m currently focused on Full-Stack Development with React, Next.js, Node.js, Express, and building robust backends with MongoDB and AWS.<br>
+📚 I'm a passionate Back-End Developer who loves building scalable web applications. My objective is to gain extensive experience in software engineering and continue leveling up my skills.<br>
+🌱 I’m currently focused on Back-End Development with Node.js, Express, Java, Spring Boot, and building robust systems with MongoDB and AWS.<br>
 🚀💻 I actively solve Data Structures and Algorithms problems in C++ to keep my problem-solving skills sharp! ♨️
 
 ## 📞 Do you want to talk with me?
@@ -12,7 +12,7 @@
 
 # 👀 What am I studying/using now?:
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,aws,cpp,tailwind)](https://skillicons.dev)
-> Full-Stack Web Development (MERN/Next.js) <br>
+> Back-End Web Development (Node.js/Java) <br>
 > AWS (S3 Integration) <br>
 > C++ (LeetCode / DSA) <br>
 
