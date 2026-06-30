@@ -27,6 +27,6 @@
 
   <!-- Bottom: Tech Stack -->
   <text x="500" y="360" class="tech-stack" text-anchor="middle">
-    JAVA  •  SPRING BOOT  •  NODE.JS  •  MONGODB  •  AWS  •  C++
+    JAVASCRIPT  •  NODE.JS  •  MYSQL  •  MONGODB  •  AWS  •  DOCKER  •  KUBERNETES
   </text>
 </svg>
