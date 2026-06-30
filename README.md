@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/user-attachments/assets/0b39c612-2fde-4030-a578-58b437ce3b73)
+![Profile Banner](./banner.svg)
 
 ### Hey mate, Welcome to my World! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNmt0OHQ4NXhmMjV4dThpZTJwODI3bW1wMzJ2aDdjMG1zYWp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JUepQ8rqpnI5ZS/giphy.gif" height="22px"/>
 📚 I'm a passionate Full-Stack Developer who loves building scalable web applications. My objective is to gain extensive experience in software engineering and continue leveling up my skills.<br>
