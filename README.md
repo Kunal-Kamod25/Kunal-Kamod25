@@ -29,5 +29,6 @@
   <img src="https://streak-stats.demolab.com?user=kunal-kamod25&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" alt="GitHub Streak Stats" />
 </div>
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 💡 Engineering Philosophy
+> *"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."*  
+> — **Linus Torvalds**
