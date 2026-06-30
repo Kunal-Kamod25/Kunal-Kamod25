@@ -18,8 +18,10 @@
 > C++ (LeetCode / DSA) <br>
 
 # 🛠️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github,docker,figma)](https://skillicons.dev) <br>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-%23F0ECE6.svg?style=for-the-badge&logo=Anthropic&logoColor=black" />
+<img src="https://img.shields.io/badge/Antigravity_AI-%231A73E8.svg?style=for-the-badge&logo=GoogleGemini&logoColor=white" />
 # 👁️ Profile Visitors
 <div align="center">
   <img src="https://profile-counter.glitch.me/kunal-kamod25/count.svg" alt="Visitors" />
