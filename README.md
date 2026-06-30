@@ -22,9 +22,11 @@
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-%23F0ECE6.svg?style=for-the-badge&logo=Anthropic&logoColor=black" />
 <img src="https://img.shields.io/badge/Antigravity_AI-%231A73E8.svg?style=for-the-badge&logo=GoogleGemini&logoColor=white" />
-# 👁️ Profile Visitors
+# 📊 GitHub Stats & Visitors
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kunal-kamod25/count.svg" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=kunal-kamod25&label=Profile%20Visitors&color=e4002b&style=for-the-badge" alt="Visitors" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-kamod25&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 # ✍️ Random Dev Quote
