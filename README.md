@@ -11,7 +11,7 @@
 <a href="https://github.com/kunal-kamod25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 # 👀 What am I studying/using now?:
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,mysql,aws,docker,kubernetes,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,javascript,nodejs,express,mongodb,mysql,aws,docker,kubernetes,cpp)](https://skillicons.dev)
 > Back-End Web Development (Node.js/JavaScript) <br>
 > Cloud & Containers (AWS, Docker, Kubernetes) <br>
 > Architecture & Workflow (Microservices, Jira) <br>
