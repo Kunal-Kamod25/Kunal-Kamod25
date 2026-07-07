@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kunal-Kamod25.Kunal-Kamod25&" alt="Visitors" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=kunal-kamod25&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kunal-kamod25&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" alt="GitHub Streak Stats" />
 </div>
 
 # 💡 Engineering Philosophy
