@@ -1,9 +1,24 @@
 ![Profile Banner](./header_banner.svg)
 
 ### Hey mate, Welcome to my World! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNmt0OHQ4NXhmMjV4dThpZTJwODI3bW1wMzJ2aDdjMG1zYWp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JUepQ8rqpnI5ZS/giphy.gif" height="22px"/>
-📚 I'm a passionate Back-End Developer who loves building scalable web applications. My objective is to gain extensive experience in software engineering and continue leveling up my skills.<br>
-🌱 I’m currently focused on Back-End Development with Node.js, Express, JavaScript, and building robust systems with MongoDB, MySQL, and AWS.<br>
-🚀💻 I actively solve Data Structures and Algorithms problems in C++ to keep my problem-solving skills sharp! ♨️
+
+```json
+{
+  "name": "Kunal Kamod",
+  "role": "Back-End Developer",
+  "passion": "Building highly scalable and robust web applications.",
+  "current_focus": [
+    "Node.js", 
+    "Express", 
+    "JavaScript", 
+    "MongoDB", 
+    "MySQL", 
+    "AWS"
+  ],
+  "problem_solving": "Actively solving DSA problems in C++ to keep skills sharp! 🚀",
+  "objective": "Gain extensive experience in software engineering and continuously level up."
+}
+```
 
 ## 📞 Do you want to talk with me?
 <a href="mailto:kunalkamod03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
