@@ -1,4 +1,4 @@
-![Profile Banner](./banner.svg)
+![Profile Banner](./header_banner.svg)
 
 ### Hey mate, Welcome to my World! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNmt0OHQ4NXhmMjV4dThpZTJwODI3bW1wMzJ2aDdjMG1zYWp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JUepQ8rqpnI5ZS/giphy.gif" height="22px"/>
 📚 I'm a passionate Back-End Developer who loves building scalable web applications. My objective is to gain extensive experience in software engineering and continue leveling up my skills.<br>
