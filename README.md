@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=150&section=header&text=Hi%20There!%20👋&fontSize=60&fontColor=ffffff&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:06b6d4&height=120&section=header&text=Hi%20There!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=65" />
   <h2>I am Kunal Kamod.</h2>
 </div>
 
