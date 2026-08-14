@@ -5,14 +5,14 @@
       .name { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 32px; font-weight: bold; fill: #ffffff; }
     </style>
     <linearGradient id="waveGradient" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#148375" />
-      <stop offset="100%" stop-color="#1D6688" />
+      <stop offset="0%" stop-color="#FF512F" />
+      <stop offset="100%" stop-color="#F09819" />
     </linearGradient>
   </defs>
 
   <rect width="100%" height="100%" fill="transparent" />
 
-  <!-- Teal/Green Wave Shape -->
+  <!-- Orange/Red Wave Shape -->
   <path fill="url(#waveGradient)" d="M0,40 L850,40 L850,110 C500,160 300,70 0,110 Z" />
 
   <!-- Text content -->

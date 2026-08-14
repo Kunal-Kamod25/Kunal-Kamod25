@@ -1,4 +1,4 @@
-![Profile Banner](./header_banner.svg)
+![Profile Banner](./banner_v3.svg)
 
 ### Hey mate, Welcome to my World! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNmt0OHQ4NXhmMjV4dThpZTJwODI3bW1wMzJ2aDdjMG1zYWp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JUepQ8rqpnI5ZS/giphy.gif" height="22px"/>
 
