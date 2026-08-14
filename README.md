@@ -1,4 +1,7 @@
-![Profile Banner](./banner_v3.svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=150&section=header&text=Hi%20There!%20👋&fontSize=60&fontColor=ffffff&fontAlignY=65" />
+  <h2>I am Kunal Kamod.</h2>
+</div>
 
 ### Hey mate, Welcome to my World! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdkNmt0OHQ4NXhmMjV4dThpZTJwODI3bW1wMzJ2aDdjMG1zYWp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JUepQ8rqpnI5ZS/giphy.gif" height="22px"/>
 
