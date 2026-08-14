@@ -25,7 +25,7 @@
 
 ## 📞 Do you want to talk with me?
 <a href="mailto:kunalkamod03@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="[https://www.linkedin.com/in/kunal-kamod/](https://www.linkedin.com/in/kunal-kamod25/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/kunal-kamod25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/kunal-kamod25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 # 👀 What am I studying/using now?:
