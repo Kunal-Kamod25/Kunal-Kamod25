@@ -1,32 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 300" width="100%" height="100%">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&amp;family=Inter:wght@700;900&amp;display=swap');
-      .bg { fill: #050505; }
-      .first-name { font-family: 'Caveat', 'Brush Script MT', cursive; font-size: 110px; fill: #e4002b; }
-      .last-name { font-family: 'Inter', 'Arial Black', sans-serif; font-size: 110px; font-weight: 900; fill: #ffffff; letter-spacing: -3px; }
-      .role { font-family: 'Inter', 'Arial', sans-serif; font-size: 28px; font-weight: 700; fill: #ffffff; }
-      .tech-stack { font-family: 'Inter', 'Arial', sans-serif; font-size: 13px; font-weight: 700; fill: #a0a0a0; letter-spacing: 2px; }
+      .hi-there { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 64px; font-weight: bold; fill: #ffffff; }
+      .name { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 32px; font-weight: bold; fill: #ffffff; }
     </style>
+    <linearGradient id="waveGradient" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#148375" />
+      <stop offset="100%" stop-color="#1D6688" />
+    </linearGradient>
   </defs>
-  
-  <rect width="1000" height="400" class="bg"/>
 
-  <!-- Left Side: Santander Flame & Role -->
-  <g transform="translate(250, 160)">
-    <!-- Red Logo Abstract Design -->
-    <path d="M 31.5,19.5 C 31.4,18 31,16.5 30.2,15.2 L 23.4,3.3 C 22.9,2.4 22.5,1.4 22.3,0.4 L 22,0.9 c -1.7,2.9 -1.7,6.6 0,9.5 l 5.5,9.5 c 1.7,2.9 1.7,6.6 0,9.5 l -0.3,0.5 c -0.2,-1 -0.6,-2 -1.1,-2.9 l -5,-8.7 -3.2,-5.6 C 17.4,11.8 17,10.8 16.8,9.8 l -0.3,0.5 c -1.7,2.9 -1.7,6.5 0,9.5 v 0 l 5.5,9.5 c 1.7,2.9 1.7,6.6 0,9.5 l -0.3,0.5 c -0.2,-1 -0.6,-2 -1.1,-2.9 L 13.7,24.5 C 12.8,22.9 12.4,21.1 12.4,19.3 5.1,21.2 0,25.3 0,30 0,36.6 9.8,41.9 21.9,41.9 34,41.9 43.8,36.6 43.8,30 43.9,25.5 38.9,21.4 31.5,19.5 Z" fill="#e4002b" transform="translate(-77, -130) scale(3.5)"/>
-    <text x="0" y="80" class="role" text-anchor="middle">Back-End Developer</text>
-  </g>
+  <rect width="100%" height="100%" fill="transparent" />
 
-  <!-- Right Side: Name -->
-  <g transform="translate(720, 180)">
-    <text x="-90" y="-40" class="first-name" text-anchor="middle" transform="rotate(-8)">Kunal</text>
-    <text x="0" y="55" class="last-name" text-anchor="middle">KAMOD</text>
-  </g>
+  <!-- Teal/Green Wave Shape -->
+  <path fill="url(#waveGradient)" d="M0,40 L850,40 L850,110 C500,160 300,70 0,110 Z" />
 
-  <!-- Bottom: Tech Stack -->
-  <text x="500" y="360" class="tech-stack" text-anchor="middle">
-    REACT  •  NEXT.JS  •  JAVASCRIPT  •  NODE.JS  •  MYSQL  •  MONGODB  •  AWS  •  DOCKER  •  KUBERNETES
-  </text>
+  <!-- Text content -->
+  <text x="425" y="190" class="hi-there" text-anchor="middle">Hi There! 👋</text>
+  <text x="425" y="260" class="name" text-anchor="middle">I am Kunal Kamod.</text>
 </svg>
